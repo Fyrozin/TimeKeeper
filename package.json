@@ -1,0 +1,18 @@
+{
+  "name": "timekeeper",
+  "version": "1.0.0",
+  "description": "Bot for the CNO Discord",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Fyro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mongoose": "^5.9.16"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
